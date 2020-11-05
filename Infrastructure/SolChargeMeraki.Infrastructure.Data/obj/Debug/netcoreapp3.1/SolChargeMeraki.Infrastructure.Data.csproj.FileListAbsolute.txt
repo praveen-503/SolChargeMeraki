@@ -1,0 +1,14 @@
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.deps.json
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.csprojAssemblyReference.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.AssemblyInfo.cs
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.csproj.CopyComplete
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Infrastructure\SolChargeMeraki.Infrastructure.Data\obj\Debug\netcoreapp3.1\SolChargeMeraki.Infrastructure.Data.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolChargeMeraki.Core.Application/1.0.0": {
+        "dependencies": {
+          "SolChargeMeraki.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SolChargeMeraki.Core.Application.dll": {}
+        }
+      },
+      "SolChargeMeraki.Core.Domain/1.0.0": {
+        "runtime": {
+          "SolChargeMeraki.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolChargeMeraki.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolChargeMeraki.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.deps.json
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.csprojAssemblyReference.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.AssemblyInfoInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.AssemblyInfo.cs
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.csproj.CoreCompileInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.csproj.CopyComplete
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Application\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Application.pdb

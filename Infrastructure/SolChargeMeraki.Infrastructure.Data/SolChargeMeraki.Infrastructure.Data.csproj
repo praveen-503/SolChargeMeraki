@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories1\**" />
+    <EmbeddedResource Remove="Repositories1\**" />
+    <None Remove="Repositories1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\SolChargeMeraki.Core.Application\SolChargeMeraki.Core.Application.csproj" />
+    <ProjectReference Include="..\..\Core\SolChargeMeraki.Core.Domain\SolChargeMeraki.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

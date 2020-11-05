@@ -1,0 +1,9 @@
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.deps.json
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\bin\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.pdb
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.csprojAssemblyReference.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.AssemblyInfoInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.AssemblyInfo.cs
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.csproj.CoreCompileInputs.cache
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.dll
+D:\SolCharge\SolChargeMeraki\SolChargeMeraki\Core\SolChargeMeraki.Core.Domain\obj\Debug\netcoreapp3.1\SolChargeMeraki.Core.Domain.pdb
